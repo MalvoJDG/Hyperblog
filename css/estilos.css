@@ -1,4 +1,5 @@
 body{
+    background-color: gray;
     color: rgb(64, 66, 62);
     text-align: center;
     font-family: 'Arial';
@@ -8,10 +9,11 @@ body{
 }
 
 #container{
+    background-color: white;
     width: 60%;
     padding: 1em;
     text-align: left;
-    border: 1px solid #ddd;
+    border: 1px solid black;
     margin: 0 auto;
 }
 
